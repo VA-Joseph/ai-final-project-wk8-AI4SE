@@ -1,34 +1,33 @@
-
-# Ignore virtual environment folders
-.venv/
-venv/
-env/
-
-# Python cache and compiled files
+# Python cache
 __pycache__/
 *.py[cod]
 *.pyo
 *.pyd
 
+# Virtual environment
+.venv/
+env/
+venv/
+
 # Distribution / packaging
 build/
+develop-eggs/
 dist/
+eggs/
 *.egg-info/
-.eggs/
-
-# Environment & config files
-.env
-*.env
-*.ini
-*.cfg
+.installed.cfg
 
 # IDE / editor settings
 .vscode/
 .idea/
+*.sublime-project
+*.sublime-workspace
 
-# MacOS metadata files
+# macOS system files
 .DS_Store
 
-
-
-
+# Logs & temp files
+*.log
+*.pot
+*.tmp
+*.swp
