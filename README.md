@@ -155,8 +155,7 @@ This project embodies the AI for Software Engineering concepts:
 GitHub: [VA-Joseph](https://github.com/VA-Joseph)  
 Portfolio: [MyPortfolio](https://va-joseph.github.io/myportfolio/)  
 Project: [EmpowerEd – AI-Powered Youth Guidance via USSD]
-| [Pitch Deck](https://gamma.app/docs/EmpowerEd-c91zn1kyjswrwqh?follow_on_start=true&following_id=xc7h4pbq7d3y7mn&mode=doc) 
-
+| [Pitch Deck](https://gamma.app/docs/EmpowerEd-c91zn1kyjswrwqh?follow_on_start=true&following_id=xc7h4pbq7d3y7mn&mode=doc)   
 Course: AI for Software Engineering – PLP Academy
 
 ---
