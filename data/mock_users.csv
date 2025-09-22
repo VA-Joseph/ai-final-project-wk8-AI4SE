@@ -1,0 +1,6 @@
+user_id,age,gender,attendance_rate,curiosity_score,consistency_score,preferred_subject
+u001,14,M,0.95,8,7,math
+u002,15,F,0.60,5,4,english
+u003,13,F,0.80,7,6,science
+u004,16,M,0.40,3,2,none
+u005,14,F,0.85,6,8,math
